@@ -8,8 +8,8 @@ public class Main {
     } else {
     System.out.println("Yatzy!");
     }
-         dice = dice + 1;
-        }
-      }
+    dice = dice + 1;
     }
-}
+    }
+    }
+
