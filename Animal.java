@@ -1,4 +1,5 @@
 class Animal{
+	// SEATWORK3SEM2
 	private String name;
 	private int age;
 	
